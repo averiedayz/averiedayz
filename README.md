@@ -1,7 +1,7 @@
 Averie
-<BR>**DayZ Server Co-Owner & Developer**
-<BR>*ElementZ* (http://discord.gg/elementz)
-<BR>Personal PayPal:
+**DayZ Server Co-Owner & Developer**
+*ElementZ* (http://discord.gg/elementz)
+Personal PayPal:
 (https://paypal.me/caseyhate)
 
 DMs are business only. For server issues, submit a ticket.
